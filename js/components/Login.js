@@ -1,9 +1,12 @@
+// import '../../css/main.css';
 import React from 'react';
+
+
 
 let Login = React.createClass({
 
   render(){
-    return(<div>Welcome to login</div>);
+    return(<div class="bg">Welcome to login</div>);
   }
 });
 
